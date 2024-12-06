@@ -1,8 +1,28 @@
-<h2 align="center">Hi 👋! My name is Haitham and i`am a Front End Developer</h2>
+<h2 align="center">Front End Developer</h2>
 
 ###
 
-<h3 align="left">Languages and Tools :</h3>
+<h4 align="left">• 👨‍💻 I'm a FrontEnd developer building with React js .<br><br> • 💞️ I’m looking to collaborate on Open source projects <br><br>• mail me at haysmrabi325@gmail.com<br><br> • Know about my experiences</h4>
+
+###
+
+<p align="left"> <a href="https://drive.google.com/file/d/1Z0A-gOLfLbO2atMW7vyEcFsYx3XvVR4l/view?usp=sharing">CV</a></p>
+
+###
+
+<h2 align="left">Contact Me :</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/haitham-rabea-9422b32bb/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">⚒ Languages and Tools :</h2>
 
 ###
 
@@ -27,23 +47,5 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
 </div>
-
-###
-
-<div align="left">
-  <a href="haysmrabi325@gmial.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/haitham-rabea-9422b32bb/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="01097521770" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Haitham/Haitham/output/snake.svg" alt="Snake animation" />
 
 ###
