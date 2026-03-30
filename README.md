@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">• 📝 Know about my experiences <a target="_blank" href="https://drive.google.com/drive/folders/1lqjTZeYOJFJYnq3vo4fN2F7xZQdYwQPx?usp=sharing">CV</a></h4>
+<h4 align="left">• 📝 Know about my experiences <a target="_blank" href="https://drive.google.com/file/d/1Fr4khWaXRl0_CUbF4hy34GlSYt654_CY/view?usp=sharing">CV</a></h4>
 
 ###
 
